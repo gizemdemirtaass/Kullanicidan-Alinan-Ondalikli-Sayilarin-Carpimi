@@ -1,0 +1,1 @@
+# Kullanicidan-Alinan-Ondalikli-Sayilarin-Carpimi
